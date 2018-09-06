@@ -1,6 +1,6 @@
 package 제02차시;
 
-class Class01 {
+class Class01 {	
 	int i=0;
 	
 	Class01() {

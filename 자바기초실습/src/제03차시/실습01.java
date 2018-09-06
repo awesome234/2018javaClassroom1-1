@@ -7,7 +7,7 @@ public class 실습01 {
 		int c1=-2137483648, c2=2147483647;
 		long d1=2147383648L, d2=1L<<63, d3=(1L<<63)-1;
 		
-		float e=3.14f;
+		float e=3.14f; 
 		double f1=3.14, f2=3.14d;
 		
 		char g1='통';
